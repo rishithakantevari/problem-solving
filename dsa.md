@@ -1,6 +1,6 @@
 # 🧠 Complete List of Data Structures for DSA
 
-This guide covers all major data structures used in Data Structures & Algorithms (DSA), with brief descriptions and use-cases. Great for interviews, competitive programming, and system design foundations.
+This guide covers all major data structures used in Data Structures & Algorithms (DSA), with brief descriptions and use-cases. Great for interviews, competitive programming, and system design foundations
 
 ---
 
